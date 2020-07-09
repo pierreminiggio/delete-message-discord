@@ -1,8 +1,6 @@
 #### Avant de commencer, récupérez votre token d'autorisation et sauvegardez le en lieu sûr. [Voir comment faire...](https://tutochain.com/recuperer-son-token-discord-manuellement/)
 EDIT de Pierre: quand vous voyez la phrase "Pour finir, cliquez sur « applications » et passez à l’étape suivante.", ignorez cette phrase, elle n'a aucun putain de sens ici, faut cliquer sur une des requètes, aller dans la partie "request headers" et chercher la ligne "Authorization" 
 
-#### Les étapes suivantes sont à executer sur le script présent dans [index.js](https://github.com/pierreminiggio/delete-message-discord/blob/master/index.js)
-
 #### Insérez l'ID du message à partir duquel vous souhaitez supprimer vos messages, à la place de "LAST_MESSAGE_ID. 
 EDIT de Pierre: Pour obtenir l'id du message, cliquez sur "... (Plus)" -> "Copier le lien du message" -> coller quelque part -> récupérer le nombre après le dernier "/"
 
