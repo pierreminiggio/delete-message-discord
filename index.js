@@ -5,7 +5,7 @@ clearMessages = function(){
 	const headers = {"Authorization": "YOUR_DISCORD_TOKEN"};
 
 	let clock = 0;
-	let interval = 500;
+	let interval = 1500;
 
 	function delay(duration) {
 		return new Promise((resolve, reject) => {
